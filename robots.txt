@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zookaeshi.mipsparc.net/sitemap.xml
